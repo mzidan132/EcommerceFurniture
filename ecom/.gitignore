@@ -1,0 +1,13 @@
+# Node modules directory
+node_modules/
+
+
+.env
+
+serviceAccountKey.json
+
+
+# Optional npm cache directory
+.npm/
+
+
